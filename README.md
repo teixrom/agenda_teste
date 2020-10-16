@@ -1,6 +1,6 @@
 # Agenda
 
-1- Inportar no eclipse 
+1- Importar no eclipse como projeto maven
 
 Lista todos os eventos
 http://localhost:8080/eventos
